@@ -80,5 +80,3 @@ public abstract class SmsVerificationCommandHandler {
         }
     }
 }
-
-// Sending trigger to Jenkins from GitHub
