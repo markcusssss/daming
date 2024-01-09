@@ -28,5 +28,3 @@ public class Application {
 
 }
 
-
-// Final Test: Restart Ngrok, Restart VPN, New Ngrok Endpoint URL.
