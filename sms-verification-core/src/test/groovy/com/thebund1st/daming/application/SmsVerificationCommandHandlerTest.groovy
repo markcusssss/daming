@@ -258,5 +258,3 @@ class SmsVerificationCommandHandlerTest extends Specification {
     }
 }
 
-
-// Test running: Trying #1
