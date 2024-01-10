@@ -257,3 +257,6 @@ class SmsVerificationCommandHandlerTest extends Specification {
         assert thrown.getMessage() == "The mobile [134****6789] is not under [SMS_LOGIN] verification."
     }
 }
+
+
+// Test running: Trying #1
