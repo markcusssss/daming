@@ -258,5 +258,3 @@ class SmsVerificationCommandHandlerTest extends Specification {
     }
 }
 
-
-// Test trying: SMS Verification Core App
