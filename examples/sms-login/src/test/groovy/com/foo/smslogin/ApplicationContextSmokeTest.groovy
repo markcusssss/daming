@@ -14,3 +14,6 @@ class ApplicationContextSmokeTest extends Specification {
         then: "it should load successfully"
     }
 }
+
+
+// ......
