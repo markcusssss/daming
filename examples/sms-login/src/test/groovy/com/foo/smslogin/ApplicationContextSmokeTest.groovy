@@ -15,5 +15,3 @@ class ApplicationContextSmokeTest extends Specification {
     }
 }
 
-
-// ......
