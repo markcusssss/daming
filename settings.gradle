@@ -10,3 +10,4 @@ include ':examples:very-important-operation'
 include ':examples:sms-login'
 include ':spring-data-redis-1.x-adatper'
 //include ':gatling'
+// Avoid using illegal symbols. Gradle 7, Java 17
